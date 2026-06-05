@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+.playwright-cli/
+.superpowers/
+work/
+*.tsbuildinfo
+npm-debug.log*
+.DS_Store
